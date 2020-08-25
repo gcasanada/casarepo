@@ -1,0 +1,8 @@
+git clone  <git repo>
+git status (useful command, use when not sure what is going on)
+git checkout -b <new branch name>
+Make changes
+git add <filename>
+git commit -m "<description>"
+git push origin <branch>
+Get on Gitlab and create PR.
